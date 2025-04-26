@@ -1,0 +1,7 @@
+13:39:33 **** Rebuild of configuration Debug for project negative or positive ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\negative or positive.o" "..\\src\\negative or positive.c" 
+gcc -o "negative or positive.exe" "src\\negative or positive.o" 
+
+13:39:33 Build Finished. 0 errors, 0 warnings. (took 611ms)
+

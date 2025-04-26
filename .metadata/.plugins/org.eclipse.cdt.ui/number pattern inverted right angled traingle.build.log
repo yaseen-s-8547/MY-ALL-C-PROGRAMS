@@ -1,0 +1,7 @@
+22:45:18 **** Rebuild of configuration Debug for project number pattern inverted right angled traingle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\number pattern inverted right angled traingle.o" "..\\src\\number pattern inverted right angled traingle.c" 
+gcc -o "number pattern inverted right angled traingle.exe" "src\\number pattern inverted right angled traingle.o" 
+
+22:45:18 Build Finished. 0 errors, 0 warnings. (took 230ms)
+

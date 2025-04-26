@@ -1,0 +1,7 @@
+22:45:19 **** Rebuild of configuration Debug for project number pattern type 2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\number pattern type 2.o" "..\\src\\number pattern type 2.c" 
+gcc -o "number pattern type 2.exe" "src\\number pattern type 2.o" 
+
+22:45:19 Build Finished. 0 errors, 0 warnings. (took 176ms)
+

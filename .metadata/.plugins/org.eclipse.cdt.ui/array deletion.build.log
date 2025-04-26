@@ -1,0 +1,7 @@
+22:45:12 **** Rebuild of configuration Debug for project Array Deletion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array deletion.o" "..\\src\\array deletion.c" 
+gcc -o "Array Deletion.exe" "src\\array deletion.o" 
+
+22:45:12 Build Finished. 0 errors, 0 warnings. (took 178ms)
+

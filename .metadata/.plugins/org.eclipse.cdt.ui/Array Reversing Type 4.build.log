@@ -1,0 +1,7 @@
+22:45:13 **** Rebuild of configuration Debug for project Array Reversing Type 4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Reversing Type 4.o" "..\\src\\Array Reversing Type 4.c" 
+gcc -o "Array Reversing Type 4.exe" "src\\Array Reversing Type 4.o" 
+
+22:45:13 Build Finished. 0 errors, 0 warnings. (took 228ms)
+

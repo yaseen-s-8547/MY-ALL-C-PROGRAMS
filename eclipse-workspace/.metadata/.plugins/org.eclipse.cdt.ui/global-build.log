@@ -1,0 +1,8 @@
+15:57:55 **** Rebuild of configuration Debug for project with out arguement with return ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\with out arguement with return.o" "..\\src\\with out arguement with return.c" 
+gcc -o "with out arguement with return.exe" "src\\with out arguement with return.o" 
+15:58:04 **** Incremental Build of configuration Debug for project with out arguement with return ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\with out arguement with return.o" "..\\src\\with out arguement with return.c" 
+gcc -o "with out arguement with return.exe" "src\\with out arguement with return.o" 

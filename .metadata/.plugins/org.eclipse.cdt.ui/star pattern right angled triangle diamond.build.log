@@ -1,0 +1,8 @@
+22:45:20 **** Rebuild of configuration Debug for project star pattern right angled triangle diamond ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\star pattern right angled triangle diamond.o" "..\\src\\star pattern right angled triangle diamond.c" 
+gcc -o "star pattern right angled triangle diamond.exe" "src\\star pattern right angled triangle diamond.o" 
+Command canceled
+
+22:45:21 Build Finished. 0 errors, 0 warnings. (took 235ms)
+

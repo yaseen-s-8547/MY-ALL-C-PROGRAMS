@@ -1,0 +1,19 @@
+19:41:17 **** Incremental Build of configuration Debug for project greater or less ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\greater or less.o" "..\\src\\greater or less.c" 
+..\src\greater or less.c: In function 'main':
+..\src\greater or less.c:18:14: error: invalid operands to binary & (have 'char *' and 'int')
+  scanf("%d%d"&num1,&num2);
+        ~~~~~~^
+..\src\greater or less.c:21:37: error: expected ';' before 'return'
+  }else{ printf("number2 is greater")
+                                     ^
+                                     ;
+  return EXIT_SUCCESS;
+  ~~~~~~                              
+..\src\greater or less.c:23:1: error: expected declaration or statement at end of input
+ }
+ ^
+
+19:41:17 Build Failed. 3 errors, 0 warnings. (took 306ms)
+

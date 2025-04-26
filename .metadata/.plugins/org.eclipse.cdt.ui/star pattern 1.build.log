@@ -1,0 +1,7 @@
+22:45:19 **** Rebuild of configuration Debug for project star pattern 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\star pattern 1.o" "..\\src\\star pattern 1.c" 
+gcc -o "star pattern 1.exe" "src\\star pattern 1.o" 
+
+22:45:19 Build Finished. 0 errors, 0 warnings. (took 178ms)
+

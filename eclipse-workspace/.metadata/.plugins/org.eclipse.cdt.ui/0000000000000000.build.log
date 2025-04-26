@@ -1,0 +1,17 @@
+18:03:22 **** Incremental Build of configuration Debug for project 0000000000000000 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\0000000000000000.o" "..\\src\\0000000000000000.c" 
+..\src\0000000000000000.c: In function 'main':
+..\src\0000000000000000.c:22:19: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+      }printf("%d=%d*1",number);
+                  ~^
+..\src\0000000000000000.c:22:19: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+..\src\0000000000000000.c:15:15: warning: variable 'multiply' set but not used [-Wunused-but-set-variable]
+  int number,i,multiply;
+               ^~~~~~~~
+gcc -o 0000000000000000.exe "src\\0000000000000000.o" 
+C:/Users/user/Downloads/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file 0000000000000000.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+18:03:22 Build Failed. 1 errors, 3 warnings. (took 516ms)
+

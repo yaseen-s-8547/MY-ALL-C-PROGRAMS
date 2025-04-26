@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;2D Array&apos; to &apos;MultiDimensional Array 2&apos;" description="Rename resource &apos;2D Array&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/2D Array" name="MultiDimensional Array 2" stamp="1741103373197" updateReferences="true"/>
+</session>

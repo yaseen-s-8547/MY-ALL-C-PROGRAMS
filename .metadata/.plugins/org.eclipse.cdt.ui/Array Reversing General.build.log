@@ -1,0 +1,6 @@
+01:15:33 **** Incremental Build of configuration Debug for project Array Reversing General ****
+Info: Internal Builder is used for build
+gcc -o "Array Reversing General.exe" "src\\Array Reversing General.o" 
+
+01:15:33 Build Finished. 0 errors, 0 warnings. (took 224ms)
+

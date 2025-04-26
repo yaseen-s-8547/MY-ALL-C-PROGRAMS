@@ -1,0 +1,7 @@
+23:43:22 **** Rebuild of configuration Debug for project Function Without Arguement With Return Value ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Function Without Arguement With Return Value.o" "..\\src\\Function Without Arguement With Return Value.c" 
+gcc -o "Function Without Arguement With Return Value.exe" "src\\Function Without Arguement With Return Value.o" 
+
+23:43:22 Build Finished. 0 errors, 0 warnings. (took 573ms)
+

@@ -1,0 +1,8 @@
+22:09:15 **** Incremental Build of configuration Debug for project star pattern righ angle triangle diamond ****
+Info: Internal Builder is used for build
+gcc -o "star pattern righ angle triangle diamond.exe" "src\\star pattern righ angle triangle diamond.o" 
+c:/users/mingw-w64-bin_x86_64-mingw_20111101_sezero (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file star pattern righ angle triangle diamond.exe: Permission denied
+collect2: ld returned 1 exit status
+
+22:09:15 Build Failed. 1 errors, 0 warnings. (took 91ms)
+

@@ -1,0 +1,10 @@
+11:39:12 **** Incremental Build of configuration Debug for project switch caseeeeeee ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch caseeeeeee.o" "..\\src\\switch caseeeeeee.c" 
+..\src\switch caseeeeeee.c: In function 'main':
+..\src\switch caseeeeeee.c:35:1: error: expected declaration or statement at end of input
+ }
+ ^
+
+11:39:13 Build Failed. 1 errors, 0 warnings. (took 272ms)
+

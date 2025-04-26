@@ -1,0 +1,10 @@
+19:50:13 **** Incremental Build of configuration Debug for project greater or less 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\greater or less 1.o" "..\\src\\greater or less 1.c" 
+..\src\greater or less 1.c: In function 'main':
+..\src\greater or less 1.c:25:1: error: expected declaration or statement at end of input
+ }
+ ^
+
+19:50:14 Build Failed. 1 errors, 0 warnings. (took 298ms)
+

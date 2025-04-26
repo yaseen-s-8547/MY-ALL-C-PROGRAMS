@@ -1,0 +1,10 @@
+22:51:21 **** Incremental Build of configuration Debug for project ass2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ass2.o" "..\\src\\ass2.c" 
+..\src\ass2.c: In function 'main':
+..\src\ass2.c:18:16: error: invalid operands to binary & (have 'char *' and 'int')
+  scanf("%d%f%f"&P,&R,&n);
+        ~~~~~~~~^
+
+22:51:21 Build Failed. 1 errors, 0 warnings. (took 209ms)
+

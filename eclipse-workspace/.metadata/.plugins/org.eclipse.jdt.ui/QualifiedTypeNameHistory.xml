@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="SampleOop"/>
+    <fullyQualifiedTypeName name="Sumfunction"/>
+    <fullyQualifiedTypeName name="SecondaryClass"/>
+    <fullyQualifiedTypeName name="hello.hi.Hello"/>
+    <fullyQualifiedTypeName name="SampleThread"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="javax.swing.SwingConstants"/>
+    <fullyQualifiedTypeName name="java.awt.Font"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,11 @@
+14:52:35 **** Incremental Build of configuration Debug for project functions assignments ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\functions assignments.o" "..\\src\\functions assignments.c" 
+..\src\functions assignments.c: In function 'main':
+..\src\functions assignments.c:15:5: warning: variable 'array' set but not used [-Wunused-but-set-variable]
+ int array[10];
+     ^~~~~
+gcc -o "functions assignments.exe" "src\\functions assignments.o" 
+
+14:52:36 Build Finished. 0 errors, 1 warnings. (took 483ms)
+

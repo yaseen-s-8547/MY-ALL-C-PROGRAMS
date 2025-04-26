@@ -1,0 +1,31 @@
+22:49:11 **** Rebuild of configuration Debug for project assign 2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign 2.o" "..\\src\\assign 2.c" 
+..\src\assign 2.c: In function 'main':
+..\src\assign 2.c:18:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d,%f,%f",P,R,n);
+         ~^        ~
+..\src\assign 2.c:18:13: warning: format '%f' expects argument of type 'float *', but argument 3 has type 'double' [-Wformat=]
+  scanf("%d,%f,%f",P,R,n);
+            ~^       ~
+..\src\assign 2.c:18:16: warning: format '%f' expects argument of type 'float *', but argument 4 has type 'double' [-Wformat=]
+  scanf("%d,%f,%f",P,R,n);
+               ~^      ~
+..\src\assign 2.c:18:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d,%f,%f",P,R,n);
+         ~^        ~
+..\src\assign 2.c:18:13: warning: format '%f' expects argument of type 'float *', but argument 3 has type 'double' [-Wformat=]
+  scanf("%d,%f,%f",P,R,n);
+            ~^       ~
+..\src\assign 2.c:18:16: warning: format '%f' expects argument of type 'float *', but argument 4 has type 'double' [-Wformat=]
+  scanf("%d,%f,%f",P,R,n);
+               ~^      ~
+..\src\assign 2.c:18:2: warning: 'n' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d,%f,%f",P,R,n);
+  ^~~~~~~~~~~~~~~~~~~~~~~
+..\src\assign 2.c:18:2: warning: 'R' is used uninitialized in this function [-Wuninitialized]
+..\src\assign 2.c:18:2: warning: 'P' is used uninitialized in this function [-Wuninitialized]
+gcc -o "assign 2.exe" "src\\assign 2.o" 
+
+22:49:14 Build Finished. 0 errors, 9 warnings. (took 2s.592ms)
+

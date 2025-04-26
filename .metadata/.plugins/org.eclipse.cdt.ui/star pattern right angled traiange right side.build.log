@@ -1,0 +1,7 @@
+22:45:20 **** Rebuild of configuration Debug for project star pattern right angled traiange right side ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\star pattern right angled traiange right side.o" "..\\src\\star pattern right angled traiange right side.c" 
+gcc -o "star pattern right angled traiange right side.exe" "src\\star pattern right angled traiange right side.o" 
+
+22:45:20 Build Finished. 0 errors, 0 warnings. (took 175ms)
+

@@ -1,0 +1,11 @@
+22:09:20 **** Incremental Build of configuration Debug for project array 5 new ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array 5 new.o" "..\\src\\array 5 new.c" 
+..\src\array 5 new.c: In function 'main':
+..\src\array 5 new.c:15:37: warning: variable 'temp' set but not used [-Wunused-but-set-variable]
+  int size,array1[100],i,array2[100],temp;
+                                     ^~~~
+gcc -o "array 5 new.exe" "src\\array 5 new.o" 
+
+22:09:21 Build Finished. 0 errors, 1 warnings. (took 489ms)
+

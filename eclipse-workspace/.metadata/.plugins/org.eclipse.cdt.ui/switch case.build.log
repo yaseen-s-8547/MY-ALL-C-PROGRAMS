@@ -1,0 +1,9 @@
+11:35:29 **** Incremental Build of configuration Debug for project switch case ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch case.o" "..\\src\\switch case.c" 
+gcc -o "switch case.exe" "src\\switch case.o" 
+C:/Users/user/Downloads/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file switch case.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+11:35:29 Build Failed. 1 errors, 0 warnings. (took 652ms)
+

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;array deletion&apos; to &apos;Array Deletion&apos;" description="Rename resource &apos;array deletion&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/array deletion" name="Array Deletion" stamp="1738428668112" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Array Detailed class 1&apos; to &apos;Array Insertion&apos;" description="Rename resource &apos;Array Detailed class 1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Array Detailed class 1" name="Array Insertion" stamp="1738428703197" updateReferences="true"/>
+</session>

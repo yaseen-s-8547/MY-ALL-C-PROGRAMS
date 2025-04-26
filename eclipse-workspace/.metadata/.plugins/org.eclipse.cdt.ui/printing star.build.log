@@ -1,0 +1,20 @@
+22:11:21 **** Incremental Build of configuration Debug for project printing star ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\printing star.o" "..\\src\\printing star.c" 
+..\src\printing star.c: In function 'main':
+..\src\printing star.c:22:3: warning: implicit declaration of function 'print'; did you mean 'printf'? [-Wimplicit-function-declaration]
+   print("& ");
+   ^~~~~
+   printf
+..\src\printing star.c:23:3: warning: implicit declaration of function 'prinf'; did you mean 'printf'? [-Wimplicit-function-declaration]
+  }prinf("\n");
+   ^~~~~
+   printf
+gcc -o "printing star.exe" "src\\printing star.o" 
+src\printing star.o: In function `main':
+C:\Users\user\eclipse-workspace\printing star\Debug/../src/printing star.c:22: undefined reference to `print'
+C:\Users\user\eclipse-workspace\printing star\Debug/../src/printing star.c:23: undefined reference to `prinf'
+collect2.exe: error: ld returned 1 exit status
+
+22:11:21 Build Failed. 2 errors, 2 warnings. (took 466ms)
+

@@ -1,0 +1,7 @@
+22:45:18 **** Rebuild of configuration Debug for project number pattern right angled triangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\number pattern right angled triangle.o" "..\\src\\number pattern right angled triangle.c" 
+gcc -o "number pattern right angled triangle.exe" "src\\number pattern right angled triangle.o" 
+
+22:45:19 Build Finished. 0 errors, 0 warnings. (took 228ms)
+

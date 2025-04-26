@@ -1,0 +1,7 @@
+22:12:23 **** Incremental Build of configuration Debug for project atrays 2.2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\atrays 2.2.o" "..\\src\\atrays 2.2.c" 
+gcc -o "atrays 2.2.exe" "src\\atrays 2.2.o" 
+
+22:12:23 Build Finished. 0 errors, 0 warnings. (took 456ms)
+

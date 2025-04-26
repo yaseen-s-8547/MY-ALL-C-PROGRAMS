@@ -1,0 +1,7 @@
+15:11:31 **** Incremental Build of configuration Debug for project inter dimensional array 1.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\inter dimensional array 1.3.o" "..\\src\\inter dimensional array 1.3.c" 
+gcc -o "inter dimensional array 1.3.exe" "src\\inter dimensional array 1.3.o" 
+
+15:11:31 Build Finished. 0 errors, 0 warnings. (took 640ms)
+

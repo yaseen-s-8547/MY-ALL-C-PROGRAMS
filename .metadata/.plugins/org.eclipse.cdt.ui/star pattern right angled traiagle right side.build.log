@@ -1,0 +1,11 @@
+22:18:04 **** Incremental Build of configuration Debug for project star pattern right angled traiagle right side ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\star pattern right angled traiagle right side.o" "..\\src\\star pattern right angled traiagle right side.c" 
+..\src\star pattern right angled traiagle right side.c: In function 'main':
+..\src\star pattern right angled traiagle right side.c:26:2: error: expected declaration or statement at end of input
+..\src\star pattern right angled traiagle right side.c:26:2: error: expected declaration or statement at end of input
+..\src\star pattern right angled traiagle right side.c:16:9: warning: unused variable 'star'
+..\src\star pattern right angled traiagle right side.c:26:2: warning: control reaches end of non-void function
+
+22:18:04 Build Failed. 2 errors, 2 warnings. (took 95ms)
+

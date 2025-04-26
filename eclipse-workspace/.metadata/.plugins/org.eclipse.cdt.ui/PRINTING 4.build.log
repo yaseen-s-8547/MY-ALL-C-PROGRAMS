@@ -1,0 +1,7 @@
+22:20:18 **** Incremental Build of configuration Debug for project PRINTING 4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\PRINTING 4.o" "..\\src\\PRINTING 4.c" 
+gcc -o "PRINTING 4.exe" "src\\PRINTING 4.o" 
+
+22:20:18 Build Finished. 0 errors, 0 warnings. (took 783ms)
+

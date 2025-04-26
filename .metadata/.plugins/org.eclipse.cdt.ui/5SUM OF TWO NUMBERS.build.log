@@ -1,0 +1,7 @@
+22:45:11 **** Rebuild of configuration Debug for project 5SUM OF TWO NUMBERS ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5SUM OF TWO NUMBERS.o" "..\\src\\5SUM OF TWO NUMBERS.c" 
+gcc -o "5SUM OF TWO NUMBERS.exe" "src\\5SUM OF TWO NUMBERS.o" 
+
+22:45:11 Build Finished. 0 errors, 0 warnings. (took 240ms)
+

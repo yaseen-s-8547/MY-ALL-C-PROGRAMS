@@ -1,0 +1,9 @@
+22:45:18 **** Rebuild of configuration Debug for project number pattern pyramid ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\number pattern pyramid.o" "..\\src\\number pattern pyramid.c" 
+..\src\number pattern pyramid.c: In function 'main':
+..\src\number pattern pyramid.c:22:29: error: 'nummber' undeclared (first use in this function)
+..\src\number pattern pyramid.c:22:29: note: each undeclared identifier is reported only once for each function it appears in
+
+22:45:18 Build Failed. 1 errors, 0 warnings. (took 91ms)
+
