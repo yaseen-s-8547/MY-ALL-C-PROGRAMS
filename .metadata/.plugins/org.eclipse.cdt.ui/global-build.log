@@ -1,205 +1,23 @@
-22:50:20 **** Rebuild of configuration Debug for project MultiDimensional Array 4 ****
+23:12:40 **** Rebuild of configuration Debug for project DSA-Reverse An Array Using Temporary Array ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-22:50:25 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\DSA Array Operations.o" "..\\src\\DSA Array Operations.c" 
+gcc -o "DSA-Reverse An Array Using Temporary Array.exe" "src\\DSA Array Operations.o" 
+23:12:53 **** Incremental Build of configuration Debug for project DSA-Reverse An Array Using Temporary Array ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-..\src\MultiDimensional Array 4.c: In function 'main':
-..\src\MultiDimensional Array 4.c:19:4: warning: format '%d' expects type 'int *', but argument 2 has type 'int'
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-22:50:34 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\DSA Array Operations.o" "..\\src\\DSA Array Operations.c" 
+..\src\DSA Array Operations.c: In function 'main':
+..\src\DSA Array Operations.c:19:1: error: 'for' loop initial declarations are only allowed in C99 mode
+..\src\DSA Array Operations.c:19:1: note: use option -std=c99 or -std=gnu99 to compile your code
+..\src\DSA Array Operations.c:22:9: error: redefinition of 'i'
+..\src\DSA Array Operations.c:19:9: note: previous definition of 'i' was here
+..\src\DSA Array Operations.c:22:1: error: 'for' loop initial declarations are only allowed in C99 mode
+23:13:25 **** Incremental Build of configuration Debug for project DSA-Reverse An Array Using Temporary Array ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-c:/users/mingw-w64-bin_x86_64-mingw_20111101_sezero (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file MultiDimensional Array 4.exe: Permission denied
-collect2: ld returned 1 exit status
-22:50:36 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\DSA Array Operations.o" "..\\src\\DSA Array Operations.c" 
+gcc -o "DSA-Reverse An Array Using Temporary Array.exe" "src\\DSA Array Operations.o" 
+Info: Nothing to build for DSA-Reverse An Array Using Temporary Array
+23:13:34 **** Incremental Build of configuration Debug for project DSA-Reverse An Array Using Temporary Array ****
 Info: Internal Builder is used for build
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-22:51:08 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-22:52:07 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-c:/users/mingw-w64-bin_x86_64-mingw_20111101_sezero (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file MultiDimensional Array 4.exe: Permission denied
-collect2: ld returned 1 exit status
-22:52:07 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-22:54:07 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-23:04:45 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-23:31:30 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-23:33:21 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-..\src\MultiDimensional Array 4.c: In function 'main':
-..\src\MultiDimensional Array 4.c:25:24: error: 'ij' undeclared (first use in this function)
-..\src\MultiDimensional Array 4.c:25:24: note: each undeclared identifier is reported only once for each function it appears in
-23:33:43 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-..\src\MultiDimensional Array 4.c: In function 'main':
-..\src\MultiDimensional Array 4.c:25:24: error: 'ij' undeclared (first use in this function)
-..\src\MultiDimensional Array 4.c:25:24: note: each undeclared identifier is reported only once for each function it appears in
-23:33:44 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-..\src\MultiDimensional Array 4.c: In function 'main':
-..\src\MultiDimensional Array 4.c:25:24: error: 'ij' undeclared (first use in this function)
-..\src\MultiDimensional Array 4.c:25:24: note: each undeclared identifier is reported only once for each function it appears in
-23:33:59 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-22:30:13 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-Info: Nothing to build for MultiDimensional Array 4
-22:31:22 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-22:55:30 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-22:55:50 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-20:15:54 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-..\src\MultiDimensional Array 4.c: In function 'main':
-..\src\MultiDimensional Array 4.c:29:6: error: 'ij' undeclared (first use in this function)
-..\src\MultiDimensional Array 4.c:29:6: note: each undeclared identifier is reported only once for each function it appears in
-20:16:08 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-20:16:41 **** Incremental Build of configuration Debug for project MultiDimensional Array 4 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MultiDimensional Array 4.o" "..\\src\\MultiDimensional Array 4.c" 
-gcc -o "MultiDimensional Array 4.exe" "src\\MultiDimensional Array 4.o" 
-Info: Nothing to build for MultiDimensional Array 4
-15:09:13 **** Rebuild of configuration Debug for project array 2 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array 2.o" "..\\src\\array 2.c" 
-gcc -o "array 2.exe" "src\\array 2.o" 
-Info: Nothing to build for array 2
-23:13:57 **** Rebuild of configuration Debug for project Array Finding Minimum ANd Maximum Numbers ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Finding Minimum ANd Maximum Numbers.o" "..\\src\\Array Finding Minimum ANd Maximum Numbers.c" 
-gcc -o "Array Finding Minimum ANd Maximum Numbers.exe" "src\\Array Finding Minimum ANd Maximum Numbers.o" 
-23:14:14 **** Incremental Build of configuration Debug for project Array Finding Minimum ANd Maximum Numbers ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Finding Minimum ANd Maximum Numbers.o" "..\\src\\Array Finding Minimum ANd Maximum Numbers.c" 
-..\src\Array Finding Minimum ANd Maximum Numbers.c: In function 'main':
-..\src\Array Finding Minimum ANd Maximum Numbers.c:34:3: warning: too many arguments for format
-gcc -o "Array Finding Minimum ANd Maximum Numbers.exe" "src\\Array Finding Minimum ANd Maximum Numbers.o" 
-Info: Nothing to build for Array Finding Minimum ANd Maximum Numbers
-00:02:05 **** Incremental Build of configuration Debug for project Array Finding Minimum ANd Maximum Numbers ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Finding Minimum ANd Maximum Numbers.o" "..\\src\\Array Finding Minimum ANd Maximum Numbers.c" 
-..\src\Array Finding Minimum ANd Maximum Numbers.c: In function 'main':
-..\src\Array Finding Minimum ANd Maximum Numbers.c:35:3: warning: too many arguments for format
-..\src\Array Finding Minimum ANd Maximum Numbers.c:17:17: warning: unused variable 'l'
-gcc -o "Array Finding Minimum ANd Maximum Numbers.exe" "src\\Array Finding Minimum ANd Maximum Numbers.o" 
-00:02:25 **** Incremental Build of configuration Debug for project Array Finding Minimum ANd Maximum Numbers ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Finding Minimum ANd Maximum Numbers.o" "..\\src\\Array Finding Minimum ANd Maximum Numbers.c" 
-..\src\Array Finding Minimum ANd Maximum Numbers.c: In function 'main':
-..\src\Array Finding Minimum ANd Maximum Numbers.c:35:3: warning: too many arguments for format
-gcc -o "Array Finding Minimum ANd Maximum Numbers.exe" "src\\Array Finding Minimum ANd Maximum Numbers.o" 
-00:05:27 **** Incremental Build of configuration Debug for project Array Finding Minimum ANd Maximum Numbers ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Finding Minimum ANd Maximum Numbers.o" "..\\src\\Array Finding Minimum ANd Maximum Numbers.c" 
-..\src\Array Finding Minimum ANd Maximum Numbers.c: In function 'main':
-..\src\Array Finding Minimum ANd Maximum Numbers.c:35:3: warning: format '%d' expects type 'int', but argument 2 has type 'char *'
-..\src\Array Finding Minimum ANd Maximum Numbers.c:35:3: warning: too many arguments for format
-gcc -o "Array Finding Minimum ANd Maximum Numbers.exe" "src\\Array Finding Minimum ANd Maximum Numbers.o" 
-00:05:57 **** Incremental Build of configuration Debug for project Array Finding Minimum ANd Maximum Numbers ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Finding Minimum ANd Maximum Numbers.o" "..\\src\\Array Finding Minimum ANd Maximum Numbers.c" 
-..\src\Array Finding Minimum ANd Maximum Numbers.c: In function 'main':
-..\src\Array Finding Minimum ANd Maximum Numbers.c:35:3: warning: format '%d' expects type 'int', but argument 2 has type 'char *'
-..\src\Array Finding Minimum ANd Maximum Numbers.c:35:3: warning: too many arguments for format
-gcc -o "Array Finding Minimum ANd Maximum Numbers.exe" "src\\Array Finding Minimum ANd Maximum Numbers.o" 
-Info: Nothing to build for Array Finding Minimum ANd Maximum Numbers
-00:10:28 **** Incremental Build of configuration Debug for project Array Finding Minimum ANd Maximum Numbers ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Finding Minimum ANd Maximum Numbers.o" "..\\src\\Array Finding Minimum ANd Maximum Numbers.c" 
-gcc -o "Array Finding Minimum ANd Maximum Numbers.exe" "src\\Array Finding Minimum ANd Maximum Numbers.o" 
-Info: Nothing to build for Array Finding Minimum ANd Maximum Numbers
-01:03:23 **** Rebuild of configuration Debug for project Array Reversing Type 1 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Reversing type 1.o" "..\\src\\Array Reversing type 1.c" 
-gcc -o "Array Reversing Type 1.exe" "src\\Array Reversing type 1.o" 
-Info: Nothing to build for Array Reversing Type 1
-01:04:58 **** Rebuild of configuration Debug for project Array Reversing Type 2 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Reversing Type 2.o" "..\\src\\Array Reversing Type 2.c" 
-gcc -o "Array Reversing Type 2.exe" "src\\Array Reversing Type 2.o" 
-Info: Nothing to build for Array Reversing Type 2
-01:05:36 **** Rebuild of configuration Debug for project Array Reversing Type 3 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Reversing Type 3.o" "..\\src\\Array Reversing Type 3.c" 
-gcc -o "Array Reversing Type 3.exe" "src\\Array Reversing Type 3.o" 
-Info: Nothing to build for Array Reversing Type 3
-01:14:51 **** Rebuild of configuration Debug for project Array Reversing General ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Reversing General.o" "..\\src\\Array Reversing General.c" 
-gcc -o "Array Reversing General.exe" "src\\Array Reversing General.o" 
-01:15:00 **** Incremental Build of configuration Debug for project Array Reversing General ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Reversing General.o" "..\\src\\Array Reversing General.c" 
-..\src\Array Reversing General.c: In function 'main':
-..\src\Array Reversing General.c:35:8: warning: format '%d' expects type 'int', but argument 2 has type 'int *'
-gcc -o "Array Reversing General.exe" "src\\Array Reversing General.o" 
-01:15:30 **** Incremental Build of configuration Debug for project Array Reversing General ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array Reversing General.o" "..\\src\\Array Reversing General.c" 
-gcc -o "Array Reversing General.exe" "src\\Array Reversing General.o" 
-c:/users/mingw-w64-bin_x86_64-mingw_20111101_sezero (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Array Reversing General.exe: Permission denied
-collect2: ld returned 1 exit status
-01:15:33 **** Incremental Build of configuration Debug for project Array Reversing General ****
-Info: Internal Builder is used for build
-gcc -o "Array Reversing General.exe" "src\\Array Reversing General.o" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\DSA Array Operations.o" "..\\src\\DSA Array Operations.c" 
+gcc -o "DSA-Reverse An Array Using Temporary Array.exe" "src\\DSA Array Operations.o" 
+Info: Nothing to build for DSA-Reverse An Array Using Temporary Array
